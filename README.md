@@ -3,8 +3,8 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-### 👋 أهلاً، أنا شوقي محمد  
-💡 مبرمج متخصص في **الذكاء الاصطناعي (AI) وعلوم البيانات (Data Science)**  
+### 👋 Hi, I'm Shawky Mohamed  
+💡 An **AI & Data Science Developer** passionate about turning data into insights and intelligent solutions.  
 
 </div>
 
@@ -41,4 +41,4 @@ class ShawkyMohamed:
         self.learning = ["Advanced AI", "Big Data", "Cloud AI Deployment"]
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something intelligent together 🤖")
+        print("Thanks for visiting! Let's build something intelligent together 🤖")
