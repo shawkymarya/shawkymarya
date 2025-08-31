@@ -41,3 +41,7 @@ class ShawkyMohamed:
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something intelligent together 🤖")
+## 🌍 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawky-marya-bb3352352/)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/shawkymarya)  
